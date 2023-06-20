@@ -26,8 +26,8 @@ Before running any of the projects, make sure you have the following prerequisit
 
 To run each project, please refer to the README file available in each project's respective branch:
 
-- [BirKO GUI_Database_Client Branch README](./BirKO/GUI_Database_Client/README.md)
-- [Database CLI Application CLI_Database_Client Branch README](./Database_CLI_Application/CLI_Database_Client/README.md)
+- [BirKO GUI_Database_Client Branch README](https://github.com/NitoCoding/projectPBO/blob/GUI_Database_Client/JavaApplication1/README.md)
+- [Database CLI Application CLI_Database_Client Branch README](https://github.com/NitoCoding/projectPBO/blob/Cli_Database_Client/cli_database/README.md)
 
 Please follow the instructions provided in each README file to set up and run the projects successfully.
 
@@ -39,9 +39,3 @@ Contributions to both projects are welcome. If you encounter any issues or have 
 
 Both projects are released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
-<<<<<<< HEAD
-## Contact
-
-For any further information or inquiries, please contact Muhammad Ilham Syahfithrah Hendra at muhammad.ilhamsh@gmail.com.
-=======
->>>>>>> 2b318e15eea7a637499914d1c66be7110681c355
