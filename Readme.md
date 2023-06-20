@@ -39,6 +39,9 @@ Contributions to both projects are welcome. If you encounter any issues or have 
 
 Both projects are released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
+<<<<<<< HEAD
 ## Contact
 
 For any further information or inquiries, please contact Muhammad Ilham Syahfithrah Hendra at muhammad.ilhamsh@gmail.com.
+=======
+>>>>>>> 2b318e15eea7a637499914d1c66be7110681c355
