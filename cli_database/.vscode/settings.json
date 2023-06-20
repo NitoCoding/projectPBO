@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Program Files\\Eclipse Adoptium\\jdk-17.0.7.7-hotspot\\lib\\mysql-connector-j-8.0.32\\mysql-connector-j-8.0.32.jar"
+        ]
+    }
+}
